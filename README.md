@@ -1,7 +1,7 @@
 # terraform_ds
 a terraform code wrote by me
 
-you can find the informations of the azure machine below
+you can find some informations about the azure machine below
 
 ![image](https://user-images.githubusercontent.com/79463870/211625961-a0dda849-4a29-4f43-b590-f1e0e50b7137.png)
 
